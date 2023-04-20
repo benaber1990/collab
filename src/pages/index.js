@@ -7,7 +7,7 @@ export default function Home() {
   return (
     <main>
       <div>
-        <h1>Collaboration!</h1>
+        <h1>Collaboration!!</h1>
       </div>
     </main>
   );
